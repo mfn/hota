@@ -31,8 +31,6 @@ static int scroll_reg = 0;
 extern int fullscreen_flag;
 extern int filtered_flag;
 extern int scale;
-extern int palette_changed;
-extern SDL_Color palette[256];
 extern SDL_Surface *screen;
 
 static int palette_changed = 0;
