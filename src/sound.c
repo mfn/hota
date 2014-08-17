@@ -20,7 +20,6 @@
 #include <SDL_mixer.h>
 
 #include <stdio.h>
-#include <malloc.h>
 #include <string.h>
 
 #include "debug.h"
