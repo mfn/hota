@@ -911,6 +911,7 @@ static void help()
 	puts("\t--fastest      speed throttle");
 	puts("\t--record       record keys");
 	puts("\t--replay       replay keys");
+	puts("\t--no-sound     no sound");
 	puts("\t--help         this help");
 }
 
